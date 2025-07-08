@@ -2,7 +2,7 @@ Hi there 👋
 
 My name is Sichile Malonje.
 
-- 🌱 I’m currrently in my 4th year of my Computer Science Degree
+- 🌱 Passionate Developer with a love for sports and art
 - 👯 I’m looking to collaborate on any project
 - 📫 How to reach me: s.malonje@gmail.com
 
